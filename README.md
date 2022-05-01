@@ -1,6 +1,6 @@
 ### 💼 DuncanElfrink
 
-Github Statistics
+Github Statistics <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DuncanElfrink&count_private=true)
 <!--
 **DuncanElfrink/DuncanElfrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
