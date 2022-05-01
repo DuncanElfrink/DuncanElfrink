@@ -8,8 +8,7 @@
 **Experience**
 <br>
 * 📝 Hosting Solutions
-<br>
-<br>
+
 Personal Information
 <br>
 + 🏡 Lives in The Netherlands - Arnhem
