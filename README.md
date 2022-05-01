@@ -6,6 +6,25 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DuncanElfrink&count_private=true&theme=radical)
 <br>
 <br>
+**Experience**
+<br>
+📝 FiveM Scripter / Visual Developer
+<br>
+⚠️ Front-end Developer
+<br>
+⚠️ Back-end Develper
+<br>
+<br>
+**Personal Information**
+<br>
+🏡 Lives in The Netherlands - Arnhem
+<br>
+👀 Discord @Duncan#1753
+<br>
+<br>
+**Groups**
+🖥️ StreamChoice
+🔐 MrD Development
 <!--
 **DuncanElfrink/DuncanElfrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
