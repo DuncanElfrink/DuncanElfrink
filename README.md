@@ -5,22 +5,22 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DuncanElfrink&count_private=true&theme=radical)
 <br>
 <br>
-<h3>**Experience**
+<b>Experience</b>
 
 * 📝 Hosting Solutions
 
-Personal Information
+<b>Personal Information</b>
 
 + 🏡 Lives in The Netherlands - Arnhem
 * 👀 Discord <b>@Duncan#1753</b>
 
-Groups
+<b>Groups</b>
 
 * 🖥️ StreamChoice
 
 * 🔐 MrD Development
 
-* 🚀 Unitum Roleplay</h3>
+* 🚀 Unitum Roleplay
 <!--
 **DuncanElfrink/DuncanElfrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
