@@ -3,7 +3,7 @@
 **Github Statistics**
 <br>
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DuncanElfrink&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DuncanElfrink&count_private=true&theme=radical)
 <br>
 <br>
 <!--
