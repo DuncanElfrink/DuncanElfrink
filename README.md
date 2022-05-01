@@ -6,22 +6,20 @@
 <br>
 <br>
 **Experience**
-<br>
+
 * 📝 Hosting Solutions
 
 Personal Information
-<br>
+
 + 🏡 Lives in The Netherlands - Arnhem
-<br>
 * 👀 Discord <b>@Duncan#1753</b>
-<br>
-<br>
+
 Groups
-<br>
+
 * 🖥️ StreamChoice
-<br>
+
 * 🔐 MrD Development
-<br>
+
 * 🚀 Unitum Roleplay
 <!--
 **DuncanElfrink/DuncanElfrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
