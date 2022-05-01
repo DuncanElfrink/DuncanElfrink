@@ -1,5 +1,4 @@
-### 💼 DuncanElfrink
----
+### 💼 <h1>DuncanElfrink</h1>
 **Github Statistics**
 <br>
 <br>
@@ -22,7 +21,7 @@
 👀 Discord @Duncan#1753
 <br>
 <br>
-<h1>**Groups**</h1>
+**Groups**
 <br>
 🖥️ StreamChoice
 <br>
