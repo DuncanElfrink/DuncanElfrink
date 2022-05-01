@@ -22,8 +22,10 @@
 👀 Discord @Duncan#1753
 <br>
 <br>
-**Groups**
+<h1>**Groups**</h1>
+<br>
 🖥️ StreamChoice
+<br>
 🔐 MrD Development
 <!--
 **DuncanElfrink/DuncanElfrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
