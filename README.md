@@ -1,5 +1,5 @@
 ### 💼 DuncanElfrink
-
+---
 **Github Statistics** <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DuncanElfrink&count_private=true)
 <!--
