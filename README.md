@@ -10,7 +10,7 @@
 * 📝 Hosting Solutions
 <br>
 <br>
-**Personal Information**
+Personal Information
 <br>
 * 🏡 Lives in The Netherlands - Arnhem
 <br>
