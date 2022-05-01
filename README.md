@@ -1,4 +1,4 @@
-### <h1>💼 DuncanElfrink</h1>
+### <h2>💼 DuncanElfrink</h2>
 **Github Statistics**
 <br>
 <br>
