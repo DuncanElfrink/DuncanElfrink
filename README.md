@@ -14,7 +14,7 @@ Personal Information
 <br>
 * 🏡 Lives in The Netherlands - Arnhem
 <br>
-* 👀 Discord @Duncan#1753
+* 👀 Discord <b>@Duncan#1753</b>
 <br>
 <br>
 Groups
