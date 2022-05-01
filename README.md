@@ -7,11 +7,7 @@
 <br>
 **Experience**
 <br>
-📝 FiveM Scripter / Visual Developer
-<br>
-⚠️ Front-end Developer
-<br>
-⚠️ Back-end Develper
+📝 Hosting Solutions
 <br>
 <br>
 **Personal Information**
