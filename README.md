@@ -17,7 +17,7 @@ Personal Information
 * 👀 Discord @Duncan#1753
 <br>
 <br>
-**Groups**
+Groups
 <br>
 * 🖥️ StreamChoice
 * 🔐 MrD Development
